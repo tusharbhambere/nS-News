@@ -1,6 +1,9 @@
 # news_app_web_app
 
-A new Flutter project.
+Riverpod With Dio
+<img src="assets/screenShot/screenshot1.jpg" width=400>
+<img src="assets/screenShot/screenshot2.jpg" width=400>
+<img src="assets/screenShot/screenshot3.jpg" width=400>
 
 ## Getting Started
 
